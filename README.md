@@ -6,8 +6,8 @@ This repo ...
 ## Table of Contents
 * [History](https://maven.apache.org/)
   * [Search Engines]()
-* [Introduction]()
-* [Different Types]()
+* [Overview](#overview)
+* [Approaches](#approaches)
 * [How to Contribute]()
 * [Requirements]()
 * [Tools]()
@@ -19,13 +19,17 @@ This repo ...
 * [Slides & Presentations]()
 * [License](#license)
 
-## Introduction
+## Overview
 jkjhkhkj
 jhkjhkjhk
 khkkhk
+
 kjlkkljl
 
 kjljlkjll
+
+## Approaches
+....
 
 ## License
 All resources ...
