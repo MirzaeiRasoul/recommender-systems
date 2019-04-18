@@ -1,38 +1,43 @@
+# Learning Path: Recommender Systems for Research Assistants
 <img src="banner.png"/>
 
 ## Welcome to Recommender Systems Repository!
 This repo ...
 
 ## Table of Contents
-* [History](https://maven.apache.org/)
+* [Requirements](#requirements)
+* [History](#history)
   * [Search Engines]()
-* [Overview](#overview)
+* [Introduction](#introduction)
 * [Approaches](#approaches)
-* [How to Contribute]()
-* [Requirements]()
-* [Tools]()
-* [Creators]()
-* [Further Resources]()
-* [Papers]()
-* [Conferences]()
-* [Famous Peoples]()
-* [Slides & Presentations]()
+* [Papers](#papers)
+* [Conferences](#conferences)
+* [Journals](#journals)
+* [Contributing](#contributing)
+* [Creators](#creators)
 * [License](#license)
 * [Copyright](#copyright)
 
-## Overview
-jkjhkhkj
-jhkjhkjhk
-khkkhk
-
-kjlkkljl
-
-kjljlkjll
-
+## Requirements
+....
+## History
+....
+## Introduction
+....
 ## Approaches
 ....
-
+## Papers
+....
+## Conferences
+....
+## Journals
+....
+## Contributing
+....
+## Creators
+....
 ## License
 All resources ...
 
 ## Copyright
+....
