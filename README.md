@@ -40,4 +40,8 @@ This repo ...
 All resources ...
 
 ## Copyright
-Copyright © 2019, [Rasoul Mirzaei Zadeh](https://mirzaeirasoul.github.io)
+<p align="center">
+ <b>Copyright © 2019</b>
+ <br>
+ <a href="https://mirzaeirasoul.github.io">Rasoul Mirzaei Zadeh</a>
+</p>
