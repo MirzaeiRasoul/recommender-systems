@@ -18,6 +18,7 @@ This repo ...
 * [Famous Peoples]()
 * [Slides & Presentations]()
 * [License](#license)
+* [Copyright](#copyright)
 
 ## Overview
 jkjhkhkj
@@ -33,3 +34,5 @@ kjljlkjll
 
 ## License
 All resources ...
+
+## Copyright
