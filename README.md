@@ -2,7 +2,6 @@
 <img src="banner.png"/>
 
 ## Welcome to Recommender Systems Repository!
-
 This repo will help research assistants to gain knowledge of Recommender Systems topic.
 
 ## Table of Contents
