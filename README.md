@@ -16,7 +16,6 @@ This repo will help research assistants to gain knowledge of Recommender Systems
 * [Contributing](#contributing)
 * [Creators](#creators)
 * [License](#license)
-* [Copyright](#copyright)
 
 ## Requirements
 ....
@@ -50,7 +49,6 @@ Thank you to all the people who contributed to this work.
 ## License
 All resources ...
 
-## Copyright
 <p align="center">
  <b>Copyright © 2019</b>
  <br>
