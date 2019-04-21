@@ -2,7 +2,8 @@
 <img src="banner.png"/>
 
 ## Welcome to Recommender Systems Repository!
-This repo ...
+
+This repo will help research assistants to gain knowledge of Recommender Systems topic.
 
 ## Table of Contents
 * [Requirements](#requirements)
@@ -33,7 +34,12 @@ This repo ...
 ## Journals
 ....
 ## Contributing
-....
+The main purpose of this repository is to help students interested in starting reserach in the field of recommender systems. We are always looking for the quality contributions!
+
+If you want to contribute to this list, please read [Contributing Guide](https://github.com/MirzaeiRasoul/recommender-systems/blob/master/CONTRIBUTING.md) before making a pull request.
+
+Thank you to all the people who contributed to this work.
+
 ## Creators
 |[![Rasoul Mirzaei Zadeh][mirzaeirasoul_avatar]][mirzaeirasoul_homepage]<br/>[Rasoul Mirzaei Zadeh][mirzaeirasoul_homepage]|
 |---|
