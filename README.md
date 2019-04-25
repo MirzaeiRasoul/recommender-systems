@@ -14,7 +14,7 @@ This repo will help research assistants to gain knowledge of Recommender Systems
 * [Conferences](#conferences)
 * [Journals](#journals)
 * [Contributing](#contributing)
-* [Creators](#creators)
+* [Contributors](#contributors)
 * [License](#license)
 
 ## Requirements
@@ -38,7 +38,7 @@ If you want to contribute to this list, please read [Contributing Guide](https:/
 
 Thank you to all the people who contributed to this work.
 
-## Creators
+## Contributors
 |[![Rasoul Mirzaei Zadeh][mirzaeirasoul_avatar]][mirzaeirasoul_homepage]|
 |---|
 
