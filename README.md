@@ -39,11 +39,11 @@ If you want to contribute to this list, please read [Contributing Guide](https:/
 Thank you to all the people who contributed to this work.
 
 ## Creators
-|[![Rasoul Mirzaei Zadeh][mirzaeirasoul_avatar]][mirzaeirasoul_homepage]<br/>[Rasoul Mirzaei Zadeh][mirzaeirasoul_homepage]|
+|[![Rasoul Mirzaei Zadeh][mirzaeirasoul_avatar]][mirzaeirasoul_homepage]|
 |---|
 
 [mirzaeirasoul_homepage]: https://mirzaeirasoul.github.io
-[mirzaeirasoul_avatar]: https://github.com/mirzaeirasoul.png?size=100
+[mirzaeirasoul_avatar]: https://github.com/mirzaeirasoul.png?size=80
 
 
 ## License
